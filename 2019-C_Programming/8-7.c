@@ -1,3 +1,5 @@
+//과표 구간 : 1000만원 이하 8%, 1000초과 10%
+
 #include <stdio.h>
 int get_tax(int income)			//소득세 계산하는 함수
 {
