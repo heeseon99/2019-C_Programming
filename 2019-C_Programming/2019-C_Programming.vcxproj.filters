@@ -144,5 +144,38 @@
     <ClCompile Include="7-14.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="func_exam2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="combination.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
